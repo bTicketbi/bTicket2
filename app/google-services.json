@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407762427157",
+    "firebase_url": "https://bticket-burundi-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bticket-burundi",
+    "storage_bucket": "bticket-burundi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407762427157:android:e9cf43058a803d57575d1c",
+        "android_client_info": {
+          "package_name": "com.bticket.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407762427157-bmj7m3imbo04io1alhkgnp37a15bti4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMHuWn9D7-dmbASjkymvUkAJcHuvrCLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407762427157-bmj7m3imbo04io1alhkgnp37a15bti4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
